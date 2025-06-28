@@ -1,0 +1,9 @@
+os
+requests
+json
+pandas
+sentence-transformers
+streamlit
+random
+numpy
+sklearn
